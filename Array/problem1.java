@@ -1,3 +1,4 @@
+package Array;
 // Calculate the maximum value out of all the elements in the array.
 // Input : arr[] = {1, 5, 3}
 // Output : 5
